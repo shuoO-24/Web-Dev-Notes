@@ -4,8 +4,6 @@ description: 'Level: Introductory. Source: W3CSchool. Status: Finished.'
 
 # Basics Overview
 
-
-
 **CSS** stands for **Cascading Style Sheets:**
 
 * **Cascading** refers to the way CSS applies one style on top of another.
@@ -157,7 +155,7 @@ To select elements with a specific class, **use a period character**, followed b
 
 These selectors are used to select elements that are descendants of another element. When selecting levels, you can select as many levels deep as you need to.
 
-For example, to target only  elements in the first paragraph of the "intro" section:
+For example, to target only elements in the first paragraph of the "intro" section:
 
 ```markup
   <div id="intro">
@@ -225,8 +223,6 @@ p {
   color: green;
 }
 ```
-
-
 
 ## **Comments**
 

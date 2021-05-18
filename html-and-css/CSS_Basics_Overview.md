@@ -28,7 +28,7 @@ In order to use an inline style, add the **style** attribute to the relevant tag
 
 The example below shows how to create a paragraph with a grey background and white text:
 
-```markup
+```html
   <p style="color:white; background-color:gray;">
       This is an example of inline styling. 
   </p>
@@ -42,7 +42,7 @@ Internal styles are defined within the `<style>` element, inside the **head sect
 
 For example, the following code styles all paragraphs:
 
-```markup
+```html
   <html>
      <head>
         <style>
@@ -69,7 +69,7 @@ Here is an example:
 
 The HTML:
 
-```markup
+```html
   <head>
      <link rel="stylesheet" href="example.css">
   </head>
@@ -118,7 +118,7 @@ A CSS declaration always ends with a semicolon, and declaration groups are surro
 
 **id selectors** allow you to **style an HTML element** that has an id attribute, **regardless of their position in the document tree**. Here is an example of an id selector:
 
-```markup
+```html
   <div id="intro">
      <p> This paragraph is in the intro section.</p>
   </div>

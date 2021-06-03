@@ -6,8 +6,8 @@
 ## JavaScript Basics
 
 * [编译特点及变量作用域](javascript-basics/bian-yi-te-dian-ji-bian-liang-zuo-yong-yu/README.md)
-  * [编译顺序](javascript-basics/bian-yi-te-dian-ji-bian-liang-zuo-yong-yu/bian-yi-shun-xu.md)
-  * [变量作用域](javascript-basics/bian-yi-te-dian-ji-bian-liang-zuo-yong-yu/bian-liang-zuo-yong-yu.md)
+  * [编译过程](javascript-basics/bian-yi-te-dian-ji-bian-liang-zuo-yong-yu/bian-yi-shun-xu.md)
+  * [Copying](javascript-basics/bian-yi-te-dian-ji-bian-liang-zuo-yong-yu/bian-liang-zuo-yong-yu.md)
 
 ## HTML & CSS
 
